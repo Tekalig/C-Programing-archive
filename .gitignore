@@ -30,3 +30,21 @@
 *.exe
 *.out
 *.app
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Editor backup files
+.vscode/
+
+# CMake files
+CMakeFiles/
+
+# Other generated files
+*.log
+*.tmp
+*.bak
+*.swp
